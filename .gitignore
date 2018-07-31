@@ -1,0 +1,10 @@
+bin
+build
+.gradle
+.classpath
+.project
+.settings
+logs
+
+*.jar
+*.zip
